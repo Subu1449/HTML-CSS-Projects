@@ -1,4 +1,4 @@
 HTML/CSS-Projects
 =================
 
-Various Projects completed using HTML/CSS
+Various projects completed using HTML/CSS
